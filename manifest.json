@@ -8,12 +8,12 @@
       "type": "image/x-icon"
     },
     {
-      "src": "https://bartendergirl.com/bartenderGirl_Logo192.png",
+      "src": "https://bartendergirl.com/code/bartenderGirl_Logo192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "https://bartendergirl.com/bartenderGirl_Logo192.png.png",
+      "src": "https://bartendergirl.com/code/bartenderGirl_Logo512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
